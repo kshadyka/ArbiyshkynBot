@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ArbiyshkynBot.Core/ArbiyshkynBot.Core.csproj" />
+    <Project Path="src/ArbiyshkynBot.Infrastructure/ArbiyshkynBot.Infrastructure.csproj" />
+    <Project Path="src/ArbiyshkynBot.Worker/ArbiyshkynBot.Worker.csproj" />
+  </Folder>
+</Solution>

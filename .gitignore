@@ -1,0 +1,22 @@
+# .NET / Visual Studio / Rider
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+
+# Локальная база данных SQLite и её временные файлы
+*.db
+*.db-shm
+*.db-wal
+app.db*
+
+# Секреты и локальные настройки
+.env
+appsettings.Development.json
+appsettings.Local.json
+
+# Логи
+logs/
+*.log
